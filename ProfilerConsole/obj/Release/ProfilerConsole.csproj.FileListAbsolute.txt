@@ -1,0 +1,11 @@
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\ProfilerConsole.dll.config
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\ProfilerConsole.dll
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\ProfilerConsole.pdb
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\Microsoft.AspNetCore.Razor.dll
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\RazorEngine.dll
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\System.Web.Razor.dll
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\Microsoft.AspNetCore.Razor.xml
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\RazorEngine.xml
+D:\code\ProfilerConsole\ProfilerConsole\bin\Release\System.Web.Razor.xml
+D:\code\ProfilerConsole\ProfilerConsole\obj\Release\ProfilerConsole.dll
+D:\code\ProfilerConsole\ProfilerConsole\obj\Release\ProfilerConsole.pdb
