@@ -7,6 +7,8 @@ D:\code\ProfilerConsole\ProfilerConsole\bin\Debug\System.Web.Razor.dll
 D:\code\ProfilerConsole\ProfilerConsole\bin\Debug\Microsoft.AspNetCore.Razor.xml
 D:\code\ProfilerConsole\ProfilerConsole\bin\Debug\RazorEngine.xml
 D:\code\ProfilerConsole\ProfilerConsole\bin\Debug\System.Web.Razor.xml
-D:\code\ProfilerConsole\ProfilerConsole\obj\Debug\ProfilerConsole.csprojResolveAssemblyReference.cache
 D:\code\ProfilerConsole\ProfilerConsole\obj\Debug\ProfilerConsole.dll
 D:\code\ProfilerConsole\ProfilerConsole\obj\Debug\ProfilerConsole.pdb
+D:\code\ProfilerConsole\ProfilerConsole\bin\Debug\log4net.dll
+D:\code\ProfilerConsole\ProfilerConsole\bin\Debug\log4net.xml
+D:\code\ProfilerConsole\ProfilerConsole\obj\Debug\ProfilerConsole.csprojResolveAssemblyReference.cache

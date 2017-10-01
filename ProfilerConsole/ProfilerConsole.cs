@@ -21,6 +21,7 @@ namespace ProfilerConsole
             watch = new Stopwatch();
             watch.Start();
             mStartTime = DateTime.Now;
+            MessageManager.GetInstance().Stert();
         }
 
         public static void Stop()

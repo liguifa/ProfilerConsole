@@ -9,10 +9,15 @@ namespace ProfilerConsole
     internal static class ProfilerEventSet
     {
         private static List<ProfilerEvent> mEvents = new List<ProfilerEvent>();
+        public static event Action<ProfilerEvent> AddEvent;
 
         public static void Add(ProfilerEvent @event)
         {
             mEvents.Add(@event);
+            if (AddEvent != null)
+            {
+                AddEvent(@event);
+            }
         }
 
         public static List<ProfilerEvent> GetEvents()

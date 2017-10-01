@@ -35,3 +35,17 @@ D:\code\ProfilerConsole\WebApplication1.Test\bin\RazorEngine.xml
 D:\code\ProfilerConsole\WebApplication1.Test\obj\Debug\WebApplication1.Test.csprojResolveAssemblyReference.cache
 D:\code\ProfilerConsole\WebApplication1.Test\obj\Debug\WebApplication1.Test.dll
 D:\code\ProfilerConsole\WebApplication1.Test\obj\Debug\WebApplication1.Test.pdb
+D:\code\ProfilerConsole\WebApplication1.Test\bin\log4net.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\SuperSocket.Common.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\SuperSocket.Facility.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\SuperSocket.SocketBase.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\log4net.xml
+D:\code\ProfilerConsole\WebApplication1.Test\bin\SuperSocket.Common.xml
+D:\code\ProfilerConsole\WebApplication1.Test\bin\SuperSocket.Facility.xml
+D:\code\ProfilerConsole\WebApplication1.Test\bin\SuperSocket.SocketBase.xml
+D:\code\ProfilerConsole\WebApplication1.Test\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\code\ProfilerConsole\WebApplication1.Test\bin\zh-Hans\System.Web.Mvc.resources.dll
